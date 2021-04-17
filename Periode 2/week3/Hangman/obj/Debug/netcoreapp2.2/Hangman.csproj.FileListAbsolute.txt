@@ -1,0 +1,10 @@
+D:\Amna\fiverr projects\Hangman\bin\Debug\netcoreapp2.2\Hangman.deps.json
+D:\Amna\fiverr projects\Hangman\bin\Debug\netcoreapp2.2\Hangman.runtimeconfig.json
+D:\Amna\fiverr projects\Hangman\bin\Debug\netcoreapp2.2\Hangman.runtimeconfig.dev.json
+D:\Amna\fiverr projects\Hangman\bin\Debug\netcoreapp2.2\Hangman.dll
+D:\Amna\fiverr projects\Hangman\bin\Debug\netcoreapp2.2\Hangman.pdb
+D:\Amna\fiverr projects\Hangman\obj\Debug\netcoreapp2.2\Hangman.csproj.CoreCompileInputs.cache
+D:\Amna\fiverr projects\Hangman\obj\Debug\netcoreapp2.2\Hangman.AssemblyInfoInputs.cache
+D:\Amna\fiverr projects\Hangman\obj\Debug\netcoreapp2.2\Hangman.AssemblyInfo.cs
+D:\Amna\fiverr projects\Hangman\obj\Debug\netcoreapp2.2\Hangman.dll
+D:\Amna\fiverr projects\Hangman\obj\Debug\netcoreapp2.2\Hangman.pdb

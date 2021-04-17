@@ -1,0 +1,11 @@
+D:\Amna\fiverr projects\ProjectGradeList\bin\Debug\netcoreapp2.2\ProjectGradeList.deps.json
+D:\Amna\fiverr projects\ProjectGradeList\bin\Debug\netcoreapp2.2\ProjectGradeList.runtimeconfig.json
+D:\Amna\fiverr projects\ProjectGradeList\bin\Debug\netcoreapp2.2\ProjectGradeList.runtimeconfig.dev.json
+D:\Amna\fiverr projects\ProjectGradeList\bin\Debug\netcoreapp2.2\ProjectGradeList.dll
+D:\Amna\fiverr projects\ProjectGradeList\bin\Debug\netcoreapp2.2\ProjectGradeList.pdb
+D:\Amna\fiverr projects\ProjectGradeList\obj\Debug\netcoreapp2.2\ProjectGradeList.csprojAssemblyReference.cache
+D:\Amna\fiverr projects\ProjectGradeList\obj\Debug\netcoreapp2.2\ProjectGradeList.csproj.CoreCompileInputs.cache
+D:\Amna\fiverr projects\ProjectGradeList\obj\Debug\netcoreapp2.2\ProjectGradeList.AssemblyInfoInputs.cache
+D:\Amna\fiverr projects\ProjectGradeList\obj\Debug\netcoreapp2.2\ProjectGradeList.AssemblyInfo.cs
+D:\Amna\fiverr projects\ProjectGradeList\obj\Debug\netcoreapp2.2\ProjectGradeList.dll
+D:\Amna\fiverr projects\ProjectGradeList\obj\Debug\netcoreapp2.2\ProjectGradeList.pdb

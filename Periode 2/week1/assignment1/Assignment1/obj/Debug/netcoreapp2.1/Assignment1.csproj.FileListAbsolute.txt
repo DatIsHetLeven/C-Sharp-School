@@ -1,0 +1,10 @@
+C:\Users\Murat\Desktop\Program2\Gelakt\Alles per week\Week1\Assignement0\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.deps.json
+C:\Users\Murat\Desktop\Program2\Gelakt\Alles per week\Week1\Assignement0\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.json
+C:\Users\Murat\Desktop\Program2\Gelakt\Alles per week\Week1\Assignement0\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.dev.json
+C:\Users\Murat\Desktop\Program2\Gelakt\Alles per week\Week1\Assignement0\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.dll
+C:\Users\Murat\Desktop\Program2\Gelakt\Alles per week\Week1\Assignement0\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.pdb
+C:\Users\Murat\Desktop\Program2\Gelakt\Alles per week\Week1\Assignement0\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\Program2\Gelakt\Alles per week\Week1\Assignement0\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Murat\Desktop\Program2\Gelakt\Alles per week\Week1\Assignement0\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfo.cs
+C:\Users\Murat\Desktop\Program2\Gelakt\Alles per week\Week1\Assignement0\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.dll
+C:\Users\Murat\Desktop\Program2\Gelakt\Alles per week\Week1\Assignement0\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.pdb
