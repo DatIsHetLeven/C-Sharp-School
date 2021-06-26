@@ -1,0 +1,22 @@
+C:\Users\Murat\Desktop\gek\Design-Patterns-Assignments\DP-Week6\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\gek\Design-Patterns-Assignments\DP-Week6\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\gek\Design-Patterns-Assignments\DP-Week6\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Murat\Desktop\gek\Design-Patterns-Assignments\DP-Week6\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.AssemblyInfo.cs
+C:\Users\Murat\Desktop\gek\Design-Patterns-Assignments\DP-Week6\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.deps.json
+C:\Users\Murat\Desktop\gek\Design-Patterns-Assignments\DP-Week6\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.runtimeconfig.json
+C:\Users\Murat\Desktop\gek\Design-Patterns-Assignments\DP-Week6\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.runtimeconfig.dev.json
+C:\Users\Murat\Desktop\gek\Design-Patterns-Assignments\DP-Week6\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.dll
+C:\Users\Murat\Desktop\gek\Design-Patterns-Assignments\DP-Week6\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.pdb
+C:\Users\Murat\Desktop\gek\Design-Patterns-Assignments\DP-Week6\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.dll
+C:\Users\Murat\Desktop\gek\Design-Patterns-Assignments\DP-Week6\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.pdb
+C:\Users\Murat\Desktop\Aftekenen\Program 4\DP-Week6\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.deps.json
+C:\Users\Murat\Desktop\Aftekenen\Program 4\DP-Week6\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.runtimeconfig.json
+C:\Users\Murat\Desktop\Aftekenen\Program 4\DP-Week6\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.runtimeconfig.dev.json
+C:\Users\Murat\Desktop\Aftekenen\Program 4\DP-Week6\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.dll
+C:\Users\Murat\Desktop\Aftekenen\Program 4\DP-Week6\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.pdb
+C:\Users\Murat\Desktop\Aftekenen\Program 4\DP-Week6\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\Aftekenen\Program 4\DP-Week6\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\Aftekenen\Program 4\DP-Week6\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Murat\Desktop\Aftekenen\Program 4\DP-Week6\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.AssemblyInfo.cs
+C:\Users\Murat\Desktop\Aftekenen\Program 4\DP-Week6\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.dll
+C:\Users\Murat\Desktop\Aftekenen\Program 4\DP-Week6\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.pdb

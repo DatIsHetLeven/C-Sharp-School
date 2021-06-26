@@ -1,0 +1,14 @@
+C:\Users\Murat\Desktop\Alles Bjorn\cs-csharp\Periode 4\Week 2\Opdracht 3\bin\Debug\Opdracht 3.exe.config
+C:\Users\Murat\Desktop\Alles Bjorn\cs-csharp\Periode 4\Week 2\Opdracht 3\bin\Debug\Opdracht 3.exe
+C:\Users\Murat\Desktop\Alles Bjorn\cs-csharp\Periode 4\Week 2\Opdracht 3\bin\Debug\Opdracht 3.pdb
+C:\Users\Murat\Desktop\Alles Bjorn\cs-csharp\Periode 4\Week 2\Opdracht 3\obj\Debug\Opdracht 3.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\Alles Bjorn\cs-csharp\Periode 4\Week 2\Opdracht 3\obj\Debug\Opdracht 3.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\Alles Bjorn\cs-csharp\Periode 4\Week 2\Opdracht 3\obj\Debug\Opdracht 3.exe
+C:\Users\Murat\Desktop\Alles Bjorn\cs-csharp\Periode 4\Week 2\Opdracht 3\obj\Debug\Opdracht 3.pdb
+C:\Users\Murat\Desktop\Program4\Opdr zelf\a\Week 2\Opdracht 3\bin\Debug\Opdracht 3.exe.config
+C:\Users\Murat\Desktop\Program4\Opdr zelf\a\Week 2\Opdracht 3\bin\Debug\Opdracht 3.exe
+C:\Users\Murat\Desktop\Program4\Opdr zelf\a\Week 2\Opdracht 3\bin\Debug\Opdracht 3.pdb
+C:\Users\Murat\Desktop\Program4\Opdr zelf\a\Week 2\Opdracht 3\obj\Debug\Opdracht 3.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\Program4\Opdr zelf\a\Week 2\Opdracht 3\obj\Debug\Opdracht 3.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\Program4\Opdr zelf\a\Week 2\Opdracht 3\obj\Debug\Opdracht 3.exe
+C:\Users\Murat\Desktop\Program4\Opdr zelf\a\Week 2\Opdracht 3\obj\Debug\Opdracht 3.pdb
